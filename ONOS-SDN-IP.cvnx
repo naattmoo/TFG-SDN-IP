@@ -1,0 +1,14 @@
+<vnx_cfg>
+<vm name="quagga" win="400,0,800,400" status="minimized"/>
+<vm name="ONOS" win="400,600,800,400" />
+<vm name="client-101" win="800,0,600,400" />
+<vm name="client-102" win="600,600,600,400" status="minimized"/>
+<vm name="client-103" win="0,0,600,400"/>
+<vm name="pub-100-1" win="600,100,600,400" status="minimized"/>
+<vm name="pub-100-3" win="300,500,600,400" status="minimized"/>
+<vm name="pri-100-2" win="600,500,600,400" status="minimized"/>
+<vm name="pri-100-4" win="300,100,600,400" status="minimized"/>
+<vm name="R-101" win="800,400,600,400" status="minimized"/>
+<vm name="R-102" win="600,200,600,400" status="minimized"/>
+<vm name="R-103" win="0,400,600,400" status="minimized"/>
+</vnx_cfg>
